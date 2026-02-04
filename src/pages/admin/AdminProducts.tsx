@@ -89,7 +89,7 @@ const AdminProducts: React.FC = () => {
 		<div className="container mx-auto">
 			<div className="flex justify-between items-start mb-6">
 				<div>
-					<h1 className="text-3xl font-bold">Manage Products Here</h1>
+					<h1 className="text-3xl font-bold">Manage Products</h1>
 					<p className="text-muted-foreground text-sm">
 						Create, edit, and delete insurance products offered to customers.
 					</p>
